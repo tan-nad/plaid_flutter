@@ -1,3 +1,16 @@
+## 2.0.0
+
+* iOS: migration 1.x SDK to the 2.0.9 SDK.
+
+## 1.1.6
+
+* Added support for payment initiation product type. Thank you @teerryn
+* Updated LinkKit to 1.1.38: Fix issue with null account_id in returned metadata
+
+## 1.1.5
+
+* Bug fix: verification status always null on android.
+
 ## 1.1.4
 
 * Added verification_status to onSuccess callback.
